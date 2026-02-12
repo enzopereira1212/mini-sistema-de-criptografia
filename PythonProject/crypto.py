@@ -1,3 +1,7 @@
+"""
+Um mini sistema de criptografia desenvolvido em Python para fins de estudo e prática de lógica de programação.
+"""
+
 from cryptography.fernet import Fernet
 import os
 
@@ -76,4 +80,5 @@ def descriptografar(arquivo):
     os.remove(caminho_vault)
 
     print("Arquivo restaurado com sucesso!")
+
 
