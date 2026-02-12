@@ -1,5 +1,5 @@
 """
-sistema criado apenas para estudo de criptografia de dados e nada mais
+Um mini sistema de criptografia desenvolvido em Python para fins de estudo e prática de lógica de programação.
 """
 
 from crypto import criptografar, descriptografar
@@ -21,3 +21,4 @@ elif opcao == "2":
 
 else:
     print("Opção inválida.")
+
