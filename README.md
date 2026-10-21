@@ -1,4 +1,4 @@
-# 🔐 Mini Sistema de Criptografia
+# Mini Sistema de Criptografia
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,7 +8,7 @@ Um mini sistema de criptografia desenvolvido em Python para fins de estudo e pr�
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi criado com o objetivo de aprender e praticar:
 
@@ -20,15 +20,15 @@ Este projeto foi criado com o objetivo de aprender e praticar:
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
-- 🔒 Criptografar mensagens
-- 🔓 Descriptografar mensagens
+- Criptografar mensagens
+- Descriptografar mensagens
 - Interface simples no terminal
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 1. Clone o repositório:
 ```bash
 git clone https://github.com/enzopereira1212/mini-sistema-de-criptografia.git
@@ -41,7 +41,7 @@ cd mini-sistema-de-criptografia
 ```bash
 python main.py
 ```
-👨‍💻 Autor
+Autor
 
 Desenvolvido por Enzo Pereira
 
